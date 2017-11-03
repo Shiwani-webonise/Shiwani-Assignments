@@ -1,0 +1,9 @@
+Following is a list of the main useful Git commands:
+1) git init - Create an empty git repository or reinitialize an existing one
+2) git clone <repository path> - Create a copy of your GitHub repository
+3) git add <Filename> - Add file to staging area
+4) git commit - Commit your changes
+5) git push origin <branchname> - Upload changes to branch on your remote repo
+6) git pull - Fetch and merge changes on remote repo to your working directory
+7) git status - See which files are staged/untracked
+
