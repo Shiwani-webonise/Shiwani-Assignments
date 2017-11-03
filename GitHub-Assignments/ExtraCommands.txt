@@ -1,0 +1,10 @@
+More commands available in Git:
+1) git merge branchname - Merge branch into your current branch
+2) git rebase branchname - Merge branches without creating new merge commit
+3) git reset - Resets to state of last commit
+4) git remote show origin - Shows all remote versions of your repository
+5) git commit --amend - Change last commit message
+6) git remote prune origin - Clean up remote branches that are deleted (stale
+references)
+7) git tag -a <version> - Create a new tag
+8) git cherry-pick <commit_ID> - Add commit from one branch to the other
