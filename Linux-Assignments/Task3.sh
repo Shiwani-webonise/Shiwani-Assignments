@@ -1,4 +1,7 @@
 #!/bin/bash
-mv /home/webonise/File1.txt /home/webonise/Documents
+#!/bin/bash
+echo "Enter directory you want to copy file in:"
+read dir_path
+mv /home/webonise/MyFile.txt $dir_path
 
  
