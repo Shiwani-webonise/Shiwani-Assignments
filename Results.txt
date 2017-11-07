@@ -1,0 +1,3 @@
+Results of the exam:
+Student #1 - Pass 
+Student #2 - Fail 
