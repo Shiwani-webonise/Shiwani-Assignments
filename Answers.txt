@@ -1,0 +1,2 @@
+Ans1. Push and Merge.
+Ans2. Merge creates a new merge commit whereas rebase does not.
