@@ -1,0 +1,18 @@
+Following is a list of the main useful Git commands:
+1) git init - Create an empty git repository or reinitialize an existing one
+2) git clone <repository path> - Create a copy of your GitHub repository
+3) git add <Filename> - Add file to staging area
+4) git commit - Commit your changes
+5) git push origin <branchname> - Upload changes to branch on your remote repo
+6) git pull - Fetch and merge changes on remote repo to your working directory
+7) git status - See which files are staged/untracked
+8) git merge branchname - Merge branch into your current branch
+9) git rebase branchname - Merge branches without creating new merge commit
+10) git reset - Resets to state of last commit
+11) git remote show origin - Shows all remote versions of your repository
+12) git commit --amend - Change last commit message
+13) git remote prune origin - Clean up remote branches that are deleted (stale
+references)
+14) git tag -a <version> - Create a new tag
+15) git cherry-pick <commit_ID> - Add commit from one branch to the other
+

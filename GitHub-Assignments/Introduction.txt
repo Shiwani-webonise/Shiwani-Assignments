@@ -1,0 +1,6 @@
+Hello,my name is Shiwani Deo. 
+This is part of my GitHub Assignment. 
+Intro about myself: I've recently joined Webonise as a trainee Software
+developer. My hobbies are dancing, sketching and reading. Although I need to
+catch up on my reading. I'm from Mumbai and I've completed my BTech in CSE 
+from VNIT Nagpur.
