@@ -1,0 +1,3 @@
+Login Requirements:
+1. Registered username
+2. Account password 
