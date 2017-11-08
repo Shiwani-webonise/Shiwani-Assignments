@@ -1,0 +1,2 @@
+Q1. List two Git commands.
+Q2. What is the difference b/w merge and rebase?	
